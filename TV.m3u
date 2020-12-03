@@ -3,6 +3,8 @@
 http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
 #EXTINF:-1,FilmBox
 http://213.151.233.20:8000/dna-6110-tv-pc.m3u8
+#EXTINF:-1,Discovery
+http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
 #EXTINF:0,CT 1 HD
 http://78.80.163.153:8001/1:0:19:1F41:CA1:3:EB0000:0:0:0:
 #EXTINF:0,CT 2 HD
