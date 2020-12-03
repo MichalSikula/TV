@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,HBO
+http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
+#EXTINF:-1,FilmBox
+http://213.151.233.20:8000/dna-6110-tv-pc.m3u8
+#EXTINF:-1,Discovery
+http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
+#EXTINF:0,Nova Action
+#EXTGRP:
+http://92.62.234.223/102/mystream.m3u8
+#EXTINF:0,Prima Cool
+#EXTGRP:
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:0,Prima Love
+#EXTGRP:
+http://92.62.234.223/101/mystream.m3u8
+
 #EXTINF:0,CT 1 HD
 #EXTVLCOPT:program=8001
 http://78.80.163.153:8001/1:0:19:1F41:CA1:3:EB0000:0:0:0:
