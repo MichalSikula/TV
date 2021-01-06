@@ -3,15 +3,7 @@
 http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
 #EXTINF:-1,FilmBox
 http://213.151.233.20:8000/dna-6110-tv-pc.m3u8
-#EXTINF:0,Prima Cool
-#EXTGRP:
-http://92.62.234.223/104/mystream.m3u8
-#EXTINF:0,Prima Love
-#EXTGRP:
-http://92.62.234.223/101/mystream.m3u8
-#EXTINF:0,Nova Action
-#EXTGRP:
-http://92.62.234.223/102/mystream.m3u8
+
 
 #EXTINF:0,HBO2
 http://87.244.196.172:8001/1:0:1:308:C94:3:EB0000:0:0:0:
@@ -23,6 +15,16 @@ http://87.244.196.172:8001/1:0:16:52E3:C96:3:EB0000:0:0:0:
 http://87.244.196.172:8001/1:0:1:315:C94:3:EB0000:0:0:0:
 #EXTINF:0,AMC
 http://87.244.196.172:8001/1:0:1:36FB:C8C:3:EB0000:0:0:0:
+
+#EXTINF:0,Prima Cool
+#EXTGRP:
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:0,Prima Love
+#EXTGRP:
+http://92.62.234.223/101/mystream.m3u8
+#EXTINF:0,Nova Action
+#EXTGRP:
+http://92.62.234.223/102/mystream.m3u8
 
 #EXTINF:0,Viasat Explore
 http://87.244.196.172:8001/1:0:1:36ED:C8C:3:EB0000:0:0:0:
