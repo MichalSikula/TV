@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6-hbo",HBO
+#EXTINF:-1 tvg-id="6-hbo", HBO
 http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
 #EXTINF:-1,FilmBox
 http://213.151.233.20:8000/dna-6110-tv-pc.m3u8
@@ -65,7 +65,7 @@ http://87.244.196.172:8001/1:0:1:36EB:C8C:3:EB0000:0:0:0:
 http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
 
 
-#EXTINF:0,CT 1 HD
+#EXTINF:0 tvg-id="2-ct1",CT 1 HD
 http://87.244.196.172:8001/1:0:19:1F41:CA1:3:EB0000:0:0:0:
 #EXTINF:0,CT 2 HD
 http://87.244.196.172:8001/1:0:19:1F42:CA1:3:EB0000:0:0:0:
