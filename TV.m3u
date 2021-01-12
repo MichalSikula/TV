@@ -21,14 +21,14 @@ http://92.62.234.223/102/mystream.m3u8
 
 #EXTINF:0 ,Viasat Explorer
 http://185.218.30.106:8001/1:0:1:36ED:C8C:3:EB0000:0:0:0:
-#EXTINF:0,Disney CZ
+#EXTINF:0,Disney Channel
 #EXTVCOPT:program=14076
 http://185.218.30.106:8001/1:0:19:36FC:C8C:3:EB0000:0:0:0:
-#EXTINF:0,JimJam CZ
+#EXTINF:0,Jim Jam
 http://185.218.30.106:8001/1:0:19:1C01:C88:3:EB0000:0:0:0:
 #EXTINF:0,Minimax
 http://185.218.30.106:8001/1:0:1:3724:C8E:3:EB0000:0:0:0:
-#EXTINF:0,Nickelodeon CZ
+#EXTINF:0,Nickelodeon
 http://185.218.30.106:8001/1:0:19:335C:C93:3:EB0000:0:0:0:
 #EXTINF:0,Boomerang
 http://185.218.30.106:8001/1:0:1:1794:C82:3:EB0000:0:0:0:
@@ -264,7 +264,7 @@ http://213.81.133.130:8000/play/a047
 http://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:0,Jojko
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
-#EXTINF:0,Markiza
+#EXTINF:0,Markíza
 http://213.81.133.130:8000/play/a02o
 #EXTINF:0,Plus
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
