@@ -19,7 +19,7 @@ http://92.62.234.223/101/mystream.m3u8
 #EXTGRP:
 http://92.62.234.223/102/mystream.m3u8
 
-#EXTINF:0,Viasat Explore
+#EXTINF:0 ,Viasat Explorer
 http://185.218.30.106:8001/1:0:1:36ED:C8C:3:EB0000:0:0:0:
 #EXTINF:0,Disney CZ
 #EXTVCOPT:program=14076
