@@ -247,3 +247,46 @@ http://185.218.30.106:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 http://185.218.30.106:8001/1:0:1:309:C94:3:EB0000:0:0:0:
 #EXTINF:0,Filmbox Stars
 http://185.218.30.106:8001/1:0:16:52E3:C96:3:EB0000:0:0:0:
+
+
+
+#EXTINF:0,Barrandov
+http://213.81.133.130:8000/play/Barrandov
+#EXTINF:0,Ct 1
+http://213.81.133.130:8000/play/ct1
+#EXTINF:0,Ct 2
+http://213.81.133.130:8000/play/CT2HD
+#EXTINF:0,Ct24
+http://213.81.133.130:8000/play/CT24
+#EXTINF:0,Joj Cinema
+http://213.81.133.130:8000/play/a047
+#EXTINF:0,Joj Family
+http://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:0,Jojko
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:0,Markiza
+http://213.81.133.130:8000/play/a02o
+#EXTINF:0,Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:0,Nova Cinema
+http://213.81.133.130:8000/play/NovaCinema
+#EXTINF:0,Prima Cool
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:0,Prima Love
+http://92.62.234.223/101/mystream.m3u8
+#EXTINF:0,Prima Max
+http://213.81.133.130:8000/play/a048
+#EXTINF:0,Prima Plus
+http://213.81.133.130:8000/play/prima_plus
+#EXTINF:0,Prima Zoom
+http://213.81.133.130:8000/play/a049
+#EXTINF:0,Stv 1
+http://213.81.133.130:8000/play/Jednotka
+#EXTINF:0,Stv 2
+http://213.81.133.130:8000/play/Dvojka
+#EXTINF:0,Stv 3
+http://213.81.133.130:8000/play/Trojka
+#EXTINF:0,Ta3
+http://213.81.133.130:8000/play/TA3
+#EXTINF:0,Wau
+http://nn.geo.joj.sk/hls/wau-540.m3u8
