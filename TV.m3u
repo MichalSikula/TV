@@ -252,11 +252,11 @@ http://185.218.30.106:8001/1:0:1:36ED:C8C:3:EB0000:0:0:0:
 
 #EXTINF:0,Barrandov
 http://213.81.133.130:8000/play/Barrandov
-#EXTINF:0,Ct 1
+#EXTINF:0,ČT1
 http://213.81.133.130:8000/play/ct1
-#EXTINF:0,Ct 2
+#EXTINF:0,ČT2
 http://213.81.133.130:8000/play/CT2HD
-#EXTINF:0,Ct24
+#EXTINF:0,ČT24
 http://213.81.133.130:8000/play/CT24
 #EXTINF:0,Joj Cinema
 http://213.81.133.130:8000/play/a047
@@ -280,13 +280,13 @@ http://213.81.133.130:8000/play/a048
 http://213.81.133.130:8000/play/prima_plus
 #EXTINF:0,Prima Zoom
 http://213.81.133.130:8000/play/a049
-#EXTINF:0,Stv1
+#EXTINF:0,STV1
 http://213.81.133.130:8000/play/Jednotka
-#EXTINF:0,Stv2
+#EXTINF:0,STV2
 http://213.81.133.130:8000/play/Dvojka
-#EXTINF:0,Stv3
+#EXTINF:0,STV3
 http://213.81.133.130:8000/play/Trojka
-#EXTINF:0,Ta3
+#EXTINF:0,TA3
 http://213.81.133.130:8000/play/TA3
 #EXTINF:0,Wau
 http://nn.geo.joj.sk/hls/wau-540.m3u8
