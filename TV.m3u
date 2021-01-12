@@ -280,11 +280,11 @@ http://213.81.133.130:8000/play/a048
 http://213.81.133.130:8000/play/prima_plus
 #EXTINF:0,Prima Zoom
 http://213.81.133.130:8000/play/a049
-#EXTINF:0,Stv 1
+#EXTINF:0,Stv1
 http://213.81.133.130:8000/play/Jednotka
-#EXTINF:0,Stv 2
+#EXTINF:0,Stv2
 http://213.81.133.130:8000/play/Dvojka
-#EXTINF:0,Stv 3
+#EXTINF:0,Stv3
 http://213.81.133.130:8000/play/Trojka
 #EXTINF:0,Ta3
 http://213.81.133.130:8000/play/TA3
