@@ -19,15 +19,14 @@ http://92.62.234.223/101/mystream.m3u8
 #EXTINF:0,Nova Action
 #EXTGRP:
 http://92.62.234.223/102/mystream.m3u8
-
+#EXTINF:0,Nova Action
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 
 #EXTINF:0,Disney Channel
 #EXTVCOPT:program=14076
 http://78.98.122.240:8001/1:0:19:36FC:C8C:3:EB0000:0:0:0:
 #EXTINF:0,Jim Jam
 http://78.98.122.240:8001/1:0:19:1C01:C88:3:EB0000:0:0:0:
-#EXTINF:0,Minimax
-http://78.98.122.240:8001/1:0:1:3724:C8E:3:EB0000:0:0:0:
 #EXTINF:0,Nickelodeon
 http://78.98.122.240:8001/1:0:19:335C:C93:3:EB0000:0:0:0:
 #EXTINF:0,Boomerang
@@ -45,7 +44,7 @@ http://78.98.122.240:8001/1:0:1:339B:C89:3:EB0000:0:0:0:
 #EXTINF:0,Nova 2
 http://78.98.122.240:8001/1:0:19:3722:C8E:3:EB0000:0:0:0:
 
-#EXTINF:0 tvg-id="1124-markiza-international+0000",Markiza international
+#EXTINF:0,Markiza international
 http://78.98.122.240:8001/1:0:1:3720:C8E:3:EB0000:0:0:0:
 #EXTINF:0,CS History
 http://78.98.122.240:8001/1:0:19:335A:C93:3:EB0000:0:0:0:
@@ -66,42 +65,42 @@ http://78.98.122.240:8001/1:0:19:1F42:CA1:3:EB0000:0:0:0:
 http://78.98.122.240:8001/1:0:1:372C:C8E:3:EB0000:0:0:0:
 #EXTINF:0 tvg-id="4-prima+0000",Prima HD
 http://78.98.122.240:8001/1:0:19:3392:C89:3:EB0000:0:0:0:
-#EXTINF:0,Prima +1 HD
+#EXTINF:0,Prima +1
 http://78.98.122.240:8001/1:0:1:1F4C:CA1:3:EB0000:0:0:0:
 #EXTINF:0,Skylink 7
 http://78.98.122.240:8001/1:0:1:1F4B:CA1:3:EB0000:0:0:0:
 #EXTINF:0 tvg-id="132-nova-cinema+0000",Nova Cinema HD
 http://78.98.122.240:8001/1:0:19:3395:C89:3:EB0000:0:0:0:
-#EXTINF:0,Nova Action HD
+#EXTINF:0,Nova Action
 http://78.98.122.240:8001/1:0:19:3394:C89:3:EB0000:0:0:0:
 #EXTINF:0,Nova Gold
 http://78.98.122.240:8001/1:0:19:3721:C8E:3:EB0000:0:0:0:
-#EXTINF:0,Prima MAX HD
+#EXTINF:0,Prima MAX
 http://78.98.122.240:8001/1:0:19:36E5:C8C:3:EB0000:0:0:0:
-#EXTINF:0,Prima COOL HD
+#EXTINF:0,Prima COOL
 http://78.98.122.240:8001/1:0:19:3396:C89:3:EB0000:0:0:0:
 #EXTINF:0,Prima Love
 http://78.98.122.240:8001/1:0:19:36EF:C8C:3:EB0000:0:0:0:
-#EXTINF:0,Prima Zoom HD
+#EXTINF:0,Prima Zoom
 http://78.98.122.240:8001/1:0:19:36E8:C8C:3:EB0000:0:0:0:
 #EXTINF:0,Prima Comedy Central
 http://78.98.122.240:8001/1:0:1:36E4:C8C:3:EB0000:0:0:0:
 #EXTINF:0,Prima KRIMI
 http://78.98.122.240:8001/1:0:19:339C:C89:3:EB0000:0:0:0:
-#EXTINF:0,TV Barrandov HD
+#EXTINF:0,TV Barrandov
 http://78.98.122.240:8001/1:0:19:132B:CA2:3:EB0000:0:0:0:
-#EXTINF:0,Kino Barrandov HD
+#EXTINF:0,Kino Barrandov
 http://78.98.122.240:8001/1:0:19:132C:CA2:3:EB0000:0:0:0:
-#EXTINF:0,Barrandov KRIMI HD
+#EXTINF:0,Barrandov KRIMI
 http://78.98.122.240:8001/1:0:19:132D:CA2:3:EB0000:0:0:0:
 #EXTINF:0,Filmbox
 http://78.98.122.240:8001/1:0:1:36E9:C8C:3:EB0000:0:0:0:
-#EXTINF:0,Televize Seznam HD
+#EXTINF:0,Televize Seznam
 http://78.98.122.240:8001/1:0:19:335B:C93:3:EB0000:0:0:0:
-#EXTINF:0,CNN Prima NEWS HD
+#EXTINF:0,CNN Prima NEWS
 #EXTVCOPT:program=14079
 http://78.98.122.240:8001/1:0:19:36FF:C8C:3:EB0000:0:0:0:
-#EXTINF:0,Travelxp HD
+#EXTINF:0,Travelxp
 http://78.98.122.240:8001/1:0:16:17AE:C82:3:EB0000:0:0:0:
 #EXTINF:0,regionalnitelevize.cz
 http://78.98.122.240:8001/1:0:19:312:C94:3:EB0000:0:0:0:
@@ -112,17 +111,17 @@ http://78.98.122.240:8001/1:0:19:5249:C99:3:EB0000:0:0:0:
 http://78.98.122.240:8001/1:0:19:3C39:C90:3:EB0000:0:0:0:
 #EXTINF:0,OCKO
 http://78.98.122.240:8001/1:0:1:1451:C98:3:EB0000:0:0:0:
-#EXTINF:0,Jednotka HD
+#EXTINF:0,STV1
 http://78.98.122.240:8001/1:0:19:1329:CA2:3:EB0000:0:0:0:
-#EXTINF:0,Dvojka HD
+#EXTINF:0,STV2
 http://78.98.122.240:8001/1:0:19:132A:CA2:3:EB0000:0:0:0:
-#EXTINF:0,JOJ Family HD
+#EXTINF:0,JOJ Family
 http://78.98.122.240:8001/1:0:19:3723:C8E:3:EB0000:0:0:0:
-#EXTINF:0,Trojka
+#EXTINF:0,STV3
 http://78.98.122.240:8001/1:0:19:132F:CA2:3:EB0000:0:0:0:
-#EXTINF:0,TA3 HD
+#EXTINF:0,TA3
 http://78.98.122.240:8001/1:0:19:1328:CA2:3:EB0000:0:0:0:
-#EXTINF:0,TV Lux HD
+#EXTINF:0,TV Lux
 http://78.98.122.240:8001/1:0:1:145A:C98:3:EB0000:0:0:0:
 #EXTINF:0,Hobby TV
 http://78.98.122.240:8001/1:0:1:17EB:C82:3:EB0000:0:0:0:
@@ -148,15 +147,15 @@ http://78.98.122.240:8001/1:0:19:1F48:CA1:3:EB0000:0:0:0:
 http://78.98.122.240:8001/1:0:19:1F47:CA1:3:EB0000:0:0:0:
 #EXTINF:0,INSIGHT HD
 http://78.98.122.240:8001/1:0:19:1393:3EA:1:C00000:0:0:0:
-#EXTINF:0,TV8 HD
+#EXTINF:0,TV8
 http://78.98.122.240:8001/1:0:19:1332:CA2:3:EB0000:0:0:0:
-#EXTINF:0,JOJ Cinema HD
+#EXTINF:0,JOJ Cinema
 http://78.98.122.240:8001/1:0:19:3359:C93:3:EB0000:0:0:0:
-#EXTINF:0,JOJ Cinema +1 HD
+#EXTINF:0,JOJ Cinema +1
 http://78.98.122.240:8001/1:0:19:3353:C93:3:EB0000:0:0:0:
-#EXTINF:0,Film Europe+ HD
+#EXTINF:0,Film Europe +
 http://78.98.122.240:8001/1:0:19:17B0:C82:3:EB0000:0:0:0:
-#EXTINF:0,Film Europe+ HD
+#EXTINF:0,Film Europe +
 http://78.98.122.240:8001/1:0:19:3CF7:C95:3:EB0000:0:0:0:
 #EXTINF:0 tvg-id="6-hbo+0000",HBO HD
 http://78.98.122.240:8001/1:0:19:307:C94:3:EB0000:0:0:0:
@@ -164,35 +163,35 @@ http://78.98.122.240:8001/1:0:19:307:C94:3:EB0000:0:0:0:
 http://78.98.122.240:8001/1:0:1:3CF3:C95:3:EB0000:0:0:0:
 #EXTINF:0 tvg-id="115-hbo3+0000",HBO 3 HD
 http://78.98.122.240:8001/1:0:1:3CF4:C95:3:EB0000:0:0:0:
-#EXTINF:0 tvg-id="66-cinemax+0000",Cinemax HD
+#EXTINF:0 ,Cinemax
 http://78.98.122.240:8001/1:0:1:3C2C:C90:3:EB0000:0:0:0:
-#EXTINF:0 tvg-id="80-cinemax-2+0000",Cinemax 2 HD
+#EXTINF:0 ,Cinemax 2
 http://78.98.122.240:8001/1:0:1:3CF6:C95:3:EB0000:0:0:0:
-#EXTINF:0 tvg-id="Filmbox Extra",Filmbox Extra HD
+#EXTINF:0 tvg-id="Filmbox Extra",Filmbox Extra
 http://78.98.122.240:8001/1:0:1:36F3:C8C:3:EB0000:0:0:0:
 
-#EXTINF:0 tvg-id="592-filmbox-premium+0000",Filmbox Premium HD
+#EXTINF:0 ,Filmbox Premium
 http://78.98.122.240:8001/1:0:16:3CF5:C95:3:EB0000:0:0:0:
-#EXTINF:0 tvg-id="68-filmplus+0000",Film+ HD
+#EXTINF:0 ,Film+
 #EXTVCOPT:program=15602
 http://78.98.122.240:8001/1:0:19:3CF2:C95:3:EB0000:0:0:0:
 #EXTINF:0 tvg-id="570-film-europe+0000",Film Europe HD
 http://78.98.122.240:8001/1:0:1:3C2D:C90:3:EB0000:0:0:0:
 #EXTINF:0 tvg-id="570-film-europe+0000",Film Europe HD
 http://78.98.122.240:8001/1:0:1:52E7:C96:3:EB0000:0:0:0:
-#EXTINF:0,Epic Drama HD
+#EXTINF:0,Epic Drama
 http://78.98.122.240:8001/1:0:1:339E:C89:3:EB0000:0:0:0:
 #EXTINF:0,Nat Geo HD CZ
 http://78.98.122.240:8001/1:0:19:303:C94:3:EB0000:0:0:0:
 #EXTINF:0,Nat Geo Wild HD CZ
 http://78.98.122.240:8001/1:0:19:305:C94:3:EB0000:0:0:0:
-#EXTINF:0,Spektrum HD
+#EXTINF:0,Spektrum
 http://78.98.122.240:8001/1:0:19:310:C94:3:EB0000:0:0:0:
 #EXTINF:0,Viasat Explore
 http://78.98.122.240:8001/1:0:19:3C2F:C90:3:EB0000:0:0:0:
-#EXTINF:0,Viasat Nature HD
+#EXTINF:0,Viasat Nature
 http://78.98.122.240:8001/1:0:1:3CF1:C95:3:EB0000:0:0:0:
-#EXTINF:0,Viasat History HD
+#EXTINF:0,Viasat History
 http://78.98.122.240:8001/1:0:1:3CF0:C95:3:EB0000:0:0:0:
 #EXTINF:0,DOCUBOX
 http://78.98.122.240:8001/1:0:1:36E3:C8C:3:EB0000:0:0:0:
@@ -208,9 +207,9 @@ http://78.98.122.240:8001/1:0:16:3C33:C90:3:EB0000:0:0:0:
 http://78.98.122.240:8001/1:0:16:3C2A:C90:3:EB0000:0:0:0:
 #EXTINF:0,Stingray CMusic
 http://78.98.122.240:8001/1:0:1:30E:C94:3:EB0000:0:0:0:
-#EXTINF:0,Stingray iConcerts HD
+#EXTINF:0,Stingray iConcerts
 http://78.98.122.240:8001/1:0:19:17D6:C91:3:EB0000:0:0:0:
-#EXTINF:0,MTV Europe CZ
+#EXTINF:0,MTV Europe
 http://78.98.122.240:8001/1:0:1:30C:C94:3:EB0000:0:0:0:
 #EXTINF:0,Mezzo
 http://78.98.122.240:8001/1:0:16:316:C94:3:EB0000:0:0:0:
@@ -218,76 +217,101 @@ http://78.98.122.240:8001/1:0:16:316:C94:3:EB0000:0:0:0:
 http://78.98.122.240:8001/1:0:1:6FF0:436:1:C00000:0:0:0:
 #EXTINF:0,MTV 80s
 http://78.98.122.240:8001/1:0:1:6FF1:436:1:C00000:0:0:0:
-#EXTINF:0,Stingray Classica HD
+#EXTINF:0,Stingray Classica
 http://78.98.122.240:8001/1:0:19:17D5:C91:3:EB0000:0:0:0:
-#EXTINF:0,Markiza HD
+#EXTINF:0,Markiza
 http://78.98.122.240:8001/1:0:1:3731:C8E:3:EB0000:0:0:0:
-#EXTINF:0,Markiza +1 HD
+#EXTINF:0,Markiza +1
 http://78.98.122.240:8001/1:0:1:372D:C8E:3:EB0000:0:0:0:
-#EXTINF:0,DOMA HD
+#EXTINF:0,DOMA
 http://78.98.122.240:8001/1:0:1:3732:C8E:3:EB0000:0:0:0:
-#EXTINF:0,DAJTO HD
+#EXTINF:0,DAJTO
 http://78.98.122.240:8001/1:0:1:3397:C89:3:EB0000:0:0:0:
-#EXTINF:0,TV JOJ HD
+#EXTINF:0,TV JOJ
 http://78.98.122.240:8001/1:0:19:3398:C89:3:EB0000:0:0:0:
-#EXTINF:0,TV JOJ +1 HD
+#EXTINF:0,TV JOJ +1
 http://78.98.122.240:8001/1:0:19:3358:C93:3:EB0000:0:0:0:
-#EXTINF:0,JOJ PLUS HD
+#EXTINF:0,JOJ PLUS
 http://78.98.122.240:8001/1:0:19:3399:C89:3:EB0000:0:0:0:
-#EXTINF:0,WAU HD
+#EXTINF:0,WAU
 http://78.98.122.240:8001/1:0:1:371F:C8E:3:EB0000:0:0:0:
-#EXTINF:0,Prima PLUS HD
+#EXTINF:0,Prima PLUS
 http://78.98.122.240:8001/1:0:1:1F49:CA1:3:EB0000:0:0:0:
 
 
 
-#EXTINF:0,HBO2
-http://78.98.122.240:8001/1:0:1:308:C94:3:EB0000:0:0:0:
-#EXTINF:0,HBO3
-http://78.98.122.240:8001/1:0:1:309:C94:3:EB0000:0:0:0:
-#EXTINF:0,Filmbox Stars
-http://78.98.122.240:8001/1:0:16:52E3:C96:3:EB0000:0:0:0:
-#EXTINF:0 ,Viasat Explorer
-http://78.98.122.240:8001/1:0:1:36ED:C8C:3:EB0000:0:0:0:
-
-
-#EXTINF:0,Barrandov
-http://213.81.133.130:8000/play/Barrandov
-#EXTINF:0,ČT1
+#EXTM3U
+#EXTINF:-1,CS Mystery
+http://213.81.133.130:8000/play/a04f
+#EXTINF:-1,ČT1
 http://213.81.133.130:8000/play/ct1
-#EXTINF:0,ČT2
+#EXTINF:-1,ČT2
 http://213.81.133.130:8000/play/CT2HD
-#EXTINF:0,ČT24
+#EXTINF:-1,ČT24
 http://213.81.133.130:8000/play/CT24
-#EXTINF:0,Joj Cinema
-http://213.81.133.130:8000/play/a047
-#EXTINF:0,Joj Family
-http://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:0,Jojko
-https://nn.geo.joj.sk/live/hls/rik-540.m3u8
-#EXTINF:0,Markíza
-http://213.81.133.130:8000/play/a02o
-#EXTINF:0,Plus
-https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:0,Nova Cinema
+#EXTINF:-1,Cartoon Network
+http://213.81.133.130:8000/play/CartoonNetwork
+#EXTINF:-1,Disney Channel
+http://213.81.133.130:8000/play/DisneyChannel
+#EXTINF:-1,Nick Jr.
+http://213.81.133.130:8000/play/NickJr
+#EXTINF:-1,Nickelodeon
+http://213.81.133.130:8000/play/Nickelodeon
+#EXTINF:-1,DAJTO
+http://213.81.133.130:8000/play/dajto
+#EXTINF:-1,DOMA
+http://213.81.133.130:8000/play/doma
+#EXTINF:-1,JOJ Cinema +1
+http://213.81.133.130:8000/play/a041
+#EXTINF:-1,JOJ Cinema
+http://213.81.133.130:8000/play/JOJ_Cinema
+#EXTINF:-1,JOJ Family
+http://213.81.133.130:8000/play/JOJ_Family
+#EXTINF:-1,Kino Barrandov
+http://213.81.133.130:8000/play/kinobarrandov
+#EXTINF:-1,Markíza +1
+http://213.81.133.130:8000/play/a03q
+#EXTINF:-1,Markíza
+http://213.81.133.130:8000/play/Markiza
+
+#EXTINF:-1,Nova +1
+http://213.81.133.130:8000/play/a03p
+#EXTINF:-1,Nova 2
+http://213.81.133.130:8000/play/Nova2
+#EXTINF:-1,Nova Cinema
 http://213.81.133.130:8000/play/NovaCinema
-#EXTINF:0,Prima Cool
-http://92.62.234.223/104/mystream.m3u8
-#EXTINF:0,Prima Love
-http://92.62.234.223/101/mystream.m3u8
-#EXTINF:0,Prima Max
-http://213.81.133.130:8000/play/a048
-#EXTINF:0,Prima Plus
+#EXTINF:-1,Nova Gold
+http://213.81.133.130:8000/play/Nova_Gold
+
+
+#EXTINF:-1,Prima +1
+http://213.81.133.130:8000/play/prima_plus_1
+#EXTINF:-1,Prima Comedy Central
+http://213.81.133.130:8000/play/PrimaComedyCentral
+#EXTINF:-1,Prima
+http://213.81.133.130:8000/play/Prima
+#EXTINF:-1,Prima KRIMI
+http://213.81.133.130:8000/play/Prima_KRIMI
+#EXTINF:-1,Prima MAX
+http://213.81.133.130:8000/play/prima_max
+#EXTINF:-1,Prima PLUS
 http://213.81.133.130:8000/play/prima_plus
-#EXTINF:0,Prima Zoom
-http://213.81.133.130:8000/play/a049
-#EXTINF:0,STV1
+#EXTINF:-1,Prima ZOOM
+http://213.81.133.130:8000/play/primazoom
+#EXTINF:-1,STV1
 http://213.81.133.130:8000/play/Jednotka
-#EXTINF:0,STV2
+#EXTINF:-1,STV2
 http://213.81.133.130:8000/play/Dvojka
-#EXTINF:0,STV3
-http://213.81.133.130:8000/play/Trojka
-#EXTINF:0,TA3
+#EXTINF:-1,TA3
 http://213.81.133.130:8000/play/TA3
-#EXTINF:0,Wau
-http://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1,TV Barrandov
+http://213.81.133.130:8000/play/Barrandov
+#EXTINF:-1,TV JOJ +1
+http://213.81.133.130:8000/play/a04g
+#EXTINF:-1,TV JOJ
+http://213.81.133.130:8000/play/TV_JOJ
+#EXTINF:-1,TV WAR
+http://213.81.133.130:8000/play/WAR
+#EXTINF:-1,Trojka
+http://213.81.133.130:8000/play/Trojka
+
