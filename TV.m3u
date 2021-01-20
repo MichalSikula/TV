@@ -233,9 +233,9 @@ http://87.244.196.172:8001/1:0:1:371F:C8E:3:EB0000:0:0:0:
 #EXTINF:0,Prima PLUS
 http://87.244.196.172:8001/1:0:1:1F49:CA1:3:EB0000:0:0:0:
 
-#EXTINF:2 ............................................
+#EXTINF:-1,2222222222222222222222222222
 
-#EXTM3U
+
 #EXTINF:-1,CS Mystery
 http://213.81.133.130:8000/play/a04f
 #EXTINF:-1,ČT1
@@ -311,81 +311,57 @@ http://213.81.133.130:8000/play/WAR
 http://213.81.133.130:8000/play/Trojka
 
 
-#EXTINF:o2 ............................................
+#EXTINF:-1,2222222222222222222222222222
 
-#EXTINF:0,CT1 HD
+#EXTINF:0,ČT1
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/6-tv-pc.m3u8
-#EXTINF:0,CT2 HD
+#EXTINF:0,ČT2
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/7-tv-pc.m3u8
-#EXTINF:0,Nova HD
+#EXTINF:0,Nova
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/8-tv-pc.m3u8
-#EXTINF:0,Prima HD
+#EXTINF:0,Prima
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/9-tv-pc.m3u8
 #EXTINF:0,STV1
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/12-tv-pc.m3u8
 #EXTINF:0,JOJ
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/13-tv-pc.m3u8
-#EXTINF:0,???
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/15-tv-pc.m3u8
-#EXTINF:0,Prima COOL HD
+#EXTINF:0,Prima COOL
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/18-tv-pc.m3u8
-#EXTINF:0,HBO HD
+#EXTINF:0,HBO
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/20-tv-pc.m3u8
-#EXTINF:0,Prima Krimi HD
+#EXTINF:0,Prima Krimi
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/26-tv-pc.m3u8
 #EXTINF:0,CS Film
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/27-tv-pc.m3u8
-#EXTINF:0,Filmox Extra HD
+#EXTINF:0,Filmox Extra
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/28-tv-pc.m3u8
-#EXTINF:0,Filmbox HD
+#EXTINF:0,Filmbox
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/29-tv-pc.m3u8
-#EXTINF:0,Filmbox PLUS
+#EXTINF:0,Film+
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/30-tv-pc.m3u8
-#EXTINF:0,Nova Cinema HD
+#EXTINF:0,Nova Cinema
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/31-tv-pc.m3u8
 #EXTINF:0,CS Horror
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/36-tv-pc.m3u8
-#EXTINF:0,Film Europe HD
+#EXTINF:0,Film Europe
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/37-tv-pc.m3u8
 #EXTINF:0,ID
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/39-tv-pc.m3u8
 #EXTINF:0,Discovery Channel
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/41-tv-pc.m3u8
-#EXTINF:0,Discovery Showcase HD
+#EXTINF:0,Discovery Showcase
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/42-tv-pc.m3u8
-#EXTINF:0,National Geographic HD
+#EXTINF:0,National Geographic
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/45-tv-pc.m3u8
-#EXTINF:0,Viasat Explore HD
+#EXTINF:0,Viasat Explore
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/47-tv-pc.m3u8
-#EXTINF:0,Viasat History HD
+#EXTINF:0,Viasat History
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/48-tv-pc.m3u8
-#EXTINF:0,Animal Planet HD
+#EXTINF:0,Animal Planet
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/51-tv-pc.m3u8
-#EXTINF:0,Prima ZOOM HD
+#EXTINF:0,Prima ZOOM
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/54-tv-pc.m3u8
-#EXTINF:0,O2 Sport HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/55-tv-pc.m3u8
-#EXTINF:0,O2 Fotbal HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/56-tv-pc.m3u8
-#EXTINF:0,O2 Tenis HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/57-tv-pc.m3u8
-#EXTINF:0,Nova Sport 1 HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/63-tv-pc.m3u8
-#EXTINF:0,Golf Channel HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/69-tv-pc.m3u8
-#EXTINF:0,Sport 5
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/70-tv-pc.m3u8
-#EXTINF:0,Sport 2 HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/74-tv-pc.m3u8
-#EXTINF:0,Sport 3
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/75-tv-pc.m3u8
-#EXTINF:0,???
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/76-tv-pc.m3u8
-#EXTINF:0,CT Sport HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/77-tv-pc.m3u8
-#EXTINF:0,Nova Sport 2 HD
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/79-tv-pc.m3u8
-#EXTINF:0,Nova Action HD
+#EXTINF:0,Nova Action
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/89-tv-pc.m3u8
 #EXTINF:0,Disney Channel
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/90-tv-pc.m3u8
@@ -395,233 +371,13 @@ https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/91-tv
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/92-tv-pc.m3u8
 #EXTINF:0,Duck TV
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/94-tv-pc.m3u8
-#EXTINF:0,Cartoon Network HD
+#EXTINF:0,Cartoon Network
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/95-tv-pc.m3u8
 #EXTINF:0,Boomerang
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/96-tv-pc.m3u8
 #EXTINF:0,JimJam
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/97-tv-pc.m3u8
-#EXTINF:0,Nick Jr
+#EXTINF:0,Nick Jr.
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/99-tv-pc.m3u8
 #EXTINF:0,Filmbox Family
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/104-tv-pc.m3u8
-#EXTINF:0,Kanal106
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/106-tv-pc.m3u8
-#EXTINF:0,Kanal107
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/107-tv-pc.m3u8
-#EXTINF:0,Kanal108
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/108-tv-pc.m3u8
-#EXTINF:0,Kanal109
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/109-tv-pc.m3u8
-#EXTINF:0,Kanal111
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/111-tv-pc.m3u8
-#EXTINF:0,Kanal112
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/112-tv-pc.m3u8
-#EXTINF:0,Kanal113
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/113-tv-pc.m3u8
-#EXTINF:0,Kanal114
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/114-tv-pc.m3u8
-#EXTINF:0,Kanal115
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/115-tv-pc.m3u8
-#EXTINF:0,Kanal116
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/116-tv-pc.m3u8
-#EXTINF:0,Kanal117
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/117-tv-pc.m3u8
-#EXTINF:0,Kanal119
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/119-tv-pc.m3u8
-#EXTINF:0,Kanal120
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/120-tv-pc.m3u8
-#EXTINF:0,Kanal121
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/121-tv-pc.m3u8
-#EXTINF:0,Kanal123
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/123-tv-pc.m3u8
-#EXTINF:0,Kanal124
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/124-tv-pc.m3u8
-#EXTINF:0,Kanal128
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/128-tv-pc.m3u8
-#EXTINF:0,Kanal129
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/129-tv-pc.m3u8
-#EXTINF:0,Kanal130
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/130-tv-pc.m3u8
-#EXTINF:0,Kanal131
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/131-tv-pc.m3u8
-#EXTINF:0,Kanal132
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/132-tv-pc.m3u8
-#EXTINF:0,Kanal133
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/133-tv-pc.m3u8
-#EXTINF:0,Kanal134
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/134-tv-pc.m3u8
-#EXTINF:0,Kanal135
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/135-tv-pc.m3u8
-#EXTINF:0,Kanal136
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/136-tv-pc.m3u8
-#EXTINF:0,Kanal137
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/137-tv-pc.m3u8
-#EXTINF:0,Kanal138
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/138-tv-pc.m3u8
-#EXTINF:0,Kanal139
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/139-tv-pc.m3u8
-#EXTINF:0,Kanal142
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/142-tv-pc.m3u8
-#EXTINF:0,Kanal143
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/143-tv-pc.m3u8
-#EXTINF:0,Kanal144
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/144-tv-pc.m3u8
-#EXTINF:0,Kanal145
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/145-tv-pc.m3u8
-#EXTINF:0,Kanal146
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/146-tv-pc.m3u8
-#EXTINF:0,Kanal148
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/148-tv-pc.m3u8
-#EXTINF:0,Kanal149
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/149-tv-pc.m3u8
-#EXTINF:0,Kanal150
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/150-tv-pc.m3u8
-#EXTINF:0,Kanal151
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/151-tv-pc.m3u8
-#EXTINF:0,Kanal152
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/152-tv-pc.m3u8
-#EXTINF:0,Kanal153
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/153-tv-pc.m3u8
-#EXTINF:0,Kanal154
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/154-tv-pc.m3u8
-#EXTINF:0,Kanal155
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/155-tv-pc.m3u8
-#EXTINF:0,Kanal156
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/156-tv-pc.m3u8
-#EXTINF:0,Kanal158
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/158-tv-pc.m3u8
-#EXTINF:0,Kanal159
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/159-tv-pc.m3u8
-#EXTINF:0,Kanal160
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/160-tv-pc.m3u8
-#EXTINF:0,Kanal161
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/161-tv-pc.m3u8
-#EXTINF:0,Kanal163
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/163-tv-pc.m3u8
-#EXTINF:0,Kanal164
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/164-tv-pc.m3u8
-#EXTINF:0,Kanal165
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/165-tv-pc.m3u8
-#EXTINF:0,Kanal167
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/167-tv-pc.m3u8
-#EXTINF:0,Kanal168
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/168-tv-pc.m3u8
-#EXTINF:0,Kanal170
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/170-tv-pc.m3u8
-#EXTINF:0,Kanal171
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/171-tv-pc.m3u8
-#EXTINF:0,Kanal172
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/172-tv-pc.m3u8
-#EXTINF:0,Kanal173
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/173-tv-pc.m3u8
-#EXTINF:0,Kanal175
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/175-tv-pc.m3u8
-#EXTINF:0,Kanal176
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/176-tv-pc.m3u8
-#EXTINF:0,Kanal177
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/177-tv-pc.m3u8
-#EXTINF:0,Kanal179
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/179-tv-pc.m3u8
-#EXTINF:0,Kanal180
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/180-tv-pc.m3u8
-#EXTINF:0,Kanal181
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/181-tv-pc.m3u8
-#EXTINF:0,Kanal182
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/182-tv-pc.m3u8
-#EXTINF:0,Kanal183
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/183-tv-pc.m3u8
-#EXTINF:0,Kanal184
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/184-tv-pc.m3u8
-#EXTINF:0,Kanal185
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/185-tv-pc.m3u8
-#EXTINF:0,Kanal188
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/188-tv-pc.m3u8
-#EXTINF:0,Kanal195
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/195-tv-pc.m3u8
-#EXTINF:0,Kanal200
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/200-tv-pc.m3u8
-#EXTINF:0,Kanal203
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/203-tv-pc.m3u8
-#EXTINF:0,Kanal301
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/301-tv-pc.m3u8
-#EXTINF:0,Kanal303
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/303-tv-pc.m3u8
-#EXTINF:0,Kanal304
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/304-tv-pc.m3u8
-#EXTINF:0,Kanal305
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/305-tv-pc.m3u8
-#EXTINF:0,Kanal308
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/308-tv-pc.m3u8
-#EXTINF:0,Kanal309
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/309-tv-pc.m3u8
-#EXTINF:0,Kanal313
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/313-tv-pc.m3u8
-#EXTINF:0,Kanal314
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/314-tv-pc.m3u8
-#EXTINF:0,Kanal315
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/315-tv-pc.m3u8
-#EXTINF:0,Kanal322
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/322-tv-pc.m3u8
-#EXTINF:0,Kanal323
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/323-tv-pc.m3u8
-#EXTINF:0,Kanal324
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/324-tv-pc.m3u8
-#EXTINF:0,Kanal325
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/325-tv-pc.m3u8
-#EXTINF:0,Kanal340
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/340-tv-pc.m3u8
-#EXTINF:0,Kanal343
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/343-tv-pc.m3u8
-#EXTINF:0,Kanal346
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/346-tv-pc.m3u8
-#EXTINF:0,Kanal444
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/444-tv-pc.m3u8
-#EXTINF:0,Kanal558
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/558-tv-pc.m3u8
-#EXTINF:0,Kanal561
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/561-tv-pc.m3u8
-#EXTINF:0,Kanal562
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/562-tv-pc.m3u8
-#EXTINF:0,Kanal563
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/563-tv-pc.m3u8
-#EXTINF:0,Kanal564
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/564-tv-pc.m3u8
-#EXTINF:0,Kanal565
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/565-tv-pc.m3u8
-#EXTINF:0,Kanal566
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/566-tv-pc.m3u8
-#EXTINF:0,Kanal707
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/707-tv-pc.m3u8
-#EXTINF:0,Kanal888
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/888-tv-pc.m3u8
-#EXTINF:0,Kanal971
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/971-tv-pc.m3u8
-#EXTINF:0,Kanal999
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/999-tv-pc.m3u8
-#EXTINF:0,Kanal1019
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1019-tv-pc.m3u8
-#EXTINF:0,Kanal1076
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1076-tv-pc.m3u8
-#EXTINF:0,Kanal1168
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1168-tv-pc.m3u8
-#EXTINF:0,Kanal1190
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1190-tv-pc.m3u8
-#EXTINF:0,Kanal1236
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1236-tv-pc.m3u8
-#EXTINF:0,Kanal1238
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1238-tv-pc.m3u8
-#EXTINF:0,Kanal1246
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1246-tv-pc.m3u8
-#EXTINF:0,Kanal1309
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1309-tv-pc.m3u8
-#EXTINF:0,Kanal1314
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1314-tv-pc.m3u8
-#EXTINF:0,Kanal1316
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1316-tv-pc.m3u8
-#EXTINF:0,Kanal1320
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1320-tv-pc.m3u8
-#EXTINF:0,Kanal1368
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1368-tv-pc.m3u8
-#EXTINF:0,Kanal1402
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1402-tv-pc.m3u8
