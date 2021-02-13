@@ -236,115 +236,43 @@ http://95.103.44.46:8001/1:0:1:1F49:CA1:3:EB0000:0:0:0:
 #EXTINF:-1,Playlist1
 http://
 
-#EXTINF:-1,CS Mystery
-http://213.81.133.130:8000/play/a04f
-#EXTINF:-1,ČT1
-http://213.81.133.130:8000/play/ct1
-#EXTINF:-1,ČT2
-http://213.81.133.130:8000/play/CT2HD
-#EXTINF:-1,ČT24
-http://213.81.133.130:8000/play/CT24
-#EXTINF:-1,Cartoon Network
-http://213.81.133.130:8000/play/CartoonNetwork
-#EXTINF:-1,Disney Channel
-http://213.81.133.130:8000/play/DisneyChannel
-#EXTINF:-1,Nick Jr.
-http://213.81.133.130:8000/play/NickJr
-#EXTINF:-1,Nickelodeon
-http://213.81.133.130:8000/play/Nickelodeon
-#EXTINF:-1,DAJTO
-http://213.81.133.130:8000/play/dajto
-#EXTINF:-1,DOMA
-http://213.81.133.130:8000/play/doma
-#EXTINF:-1,JOJ Cinema +1
-http://213.81.133.130:8000/play/a041
-#EXTINF:-1,JOJ Cinema
-http://213.81.133.130:8000/play/JOJ_Cinema
-#EXTINF:-1,JOJ Family
-http://213.81.133.130:8000/play/JOJ_Family
-#EXTINF:-1,Kino Barrandov
-http://213.81.133.130:8000/play/kinobarrandov
-#EXTINF:-1,Markíza +1
-http://213.81.133.130:8000/play/a03q
-#EXTINF:-1,Markíza
-http://213.81.133.130:8000/play/Markiza
 
-#EXTINF:-1,Nova +1
-http://213.81.133.130:8000/play/a03p
-#EXTINF:-1,Nova 2
-http://213.81.133.130:8000/play/Nova2
-#EXTINF:-1,Nova Cinema
-http://213.81.133.130:8000/play/NovaCinema
-#EXTINF:-1,Nova Gold
-http://213.81.133.130:8000/play/Nova_Gold
-
-
-#EXTINF:-1,Prima +1
-http://213.81.133.130:8000/play/prima_plus_1
-#EXTINF:-1,Prima Comedy Central
-http://213.81.133.130:8000/play/PrimaComedyCentral
-#EXTINF:-1,Prima
-http://213.81.133.130:8000/play/Prima
-#EXTINF:-1,Prima KRIMI
-http://213.81.133.130:8000/play/Prima_KRIMI
-#EXTINF:-1,Prima MAX
-http://213.81.133.130:8000/play/prima_max
-#EXTINF:-1,Prima PLUS
-http://213.81.133.130:8000/play/prima_plus
-#EXTINF:-1,Prima ZOOM
-http://213.81.133.130:8000/play/primazoom
-#EXTINF:-1,STV1
-http://213.81.133.130:8000/play/Jednotka
-#EXTINF:-1,STV2
-http://213.81.133.130:8000/play/Dvojka
-#EXTINF:-1,TA3
-http://213.81.133.130:8000/play/TA3
-#EXTINF:-1,TV Barrandov
-http://213.81.133.130:8000/play/Barrandov
-#EXTINF:-1,TV JOJ +1
-http://213.81.133.130:8000/play/a04g
-#EXTINF:-1,JOJ
-http://213.81.133.130:8000/play/TV_JOJ
-#EXTINF:-1,TV WAR
-http://213.81.133.130:8000/play/WAR
-#EXTINF:-1,Trojka
-http://213.81.133.130:8000/play/Trojka
-
-
-#EXTINF:-1,Playlist2
-
-#EXTINF:0,ČT1
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/6-tv-pc.m3u8
-#EXTINF:0,ČT2
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/7-tv-pc.m3u8
-#EXTINF:0,Nova
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/8-tv-pc.m3u8
-#EXTINF:0,Prima
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/9-tv-pc.m3u8
-#EXTINF:0,STV1
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/12-tv-pc.m3u8
-#EXTINF:0,JOJ
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/13-tv-pc.m3u8
-#EXTINF:0,Prima COOL
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/18-tv-pc.m3u8
 #EXTINF:0,HBO
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/20-tv-pc.m3u8
-#EXTINF:0,Prima Krimi
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/26-tv-pc.m3u8
-#EXTINF:0,CS Film
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/27-tv-pc.m3u8
+#EXTINF:0,HBO2
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/322-tv-pc.m3u8
+#EXTINF:0,HBO3
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/323-tv-pc.m3u8
+#EXTINF:0,CINEMAX
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/324-tv-pc.m3u8
+#EXTINF:0,CINEMAX2
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/325-tv-pc.m3u8
 #EXTINF:0,Filmox Extra
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/28-tv-pc.m3u8
 #EXTINF:0,Filmbox
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/29-tv-pc.m3u8
-#EXTINF:0,Film+
+#EXTINF:0,Filmbox PLUS
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/30-tv-pc.m3u8
 #EXTINF:0,Nova Cinema
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/31-tv-pc.m3u8
-#EXTINF:0,CS Horror
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/36-tv-pc.m3u8
 #EXTINF:0,Film Europe
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/37-tv-pc.m3u8
+#EXTINF:0,Filmbox Family
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/104-tv-pc.m3u8
+#EXTINF:12,JOJ Cinema
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/303-tv-pc.m3u8
+#EXTINF:12,Film+
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/308-tv-pc.m3u8
+#EXTINF:12,Filmbox Premium
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/309-tv-pc.m3u8
+#EXTINF:12,AMC
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1309-tv-pc.m3u8
+#EXTINF:12,Film Europe plus
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1320-tv-pc.m3u8
+#EXTINF:12,JOJ Family
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/313-tv-pc.m3u8
+
+
 #EXTINF:0,ID
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/39-tv-pc.m3u8
 #EXTINF:0,Discovery Channel
@@ -361,8 +289,31 @@ https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/48-tv
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/51-tv-pc.m3u8
 #EXTINF:0,Prima ZOOM
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/54-tv-pc.m3u8
-#EXTINF:0,Nova Action
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/89-tv-pc.m3u8
+#EXTINF:12,Spektrum Home
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/111-tv-pc.m3u8
+#EXTINF:12,History
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/117-tv-pc.m3u8
+#EXTINF:12,Discovery Science
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/119-tv-pc.m3u8
+#EXTINF:12,Viasat Nature
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/120-tv-pc.m3u8
+#EXTINF:0,National Geographic Wild
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/346-tv-pc.m3u8
+#EXTINF:12,Africke Nebe
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/444-tv-pc.m3u8
+#EXTINF:12,Prima Max
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/971-tv-pc.m3u8
+#EXTINF:12,Paramount Network
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/121-tv-pc.m3u8
+#EXTINF:12,Spektrum
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/340-tv-pc.m3u8
+#EXTINF:12,CNN
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/142-tv-pc.m3u8
+#EXTINF:12,BBC World News
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/143-tv-pc.m3u8
+#EXTINF:12,DW
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1168-tv-pc.m3u8
+
 #EXTINF:0,Disney Channel
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/90-tv-pc.m3u8
 #EXTINF:0,Nickelodeon
@@ -377,7 +328,69 @@ https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/95-tv
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/96-tv-pc.m3u8
 #EXTINF:0,JimJam
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/97-tv-pc.m3u8
-#EXTINF:0,Nick Jr.
+#EXTINF:0,Nick Jr
 https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/99-tv-pc.m3u8
-#EXTINF:0,Filmbox Family
-https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/104-tv-pc.m3u8
+#EXTINF:12,Nicktoons
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1236-tv-pc.m3u8
+
+#EXTINF:0,STV1
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/12-tv-pc.m3u8
+#EXTINF:12,STV3
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1238-tv-pc.m3u8
+#EXTINF:12,TA3
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/144-tv-pc.m3u8
+#EXTINF:12,ČT1
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/6-tv-pc.m3u8
+#EXTINF:12,ČT2
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/7-tv-pc.m3u8
+#EXTINF:12,ČT3
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/1314-tv-pc.m3u8
+#EXTINF:12,Nova
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/8-tv-pc.m3u8
+#EXTINF:0,Prima
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/9-tv-pc.m3u8
+
+#EXTINF:0,JOJ
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/13-tv-pc.m3u8
+#EXTINF:12,Barrandov
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/15-tv-pc.m3u8
+#EXTINF:0,Prima COOL
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/18-tv-pc.m3u8
+#EXTINF:0,Prima Krimi
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/26-tv-pc.m3u8
+#EXTINF:0,CS Film
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/27-tv-pc.m3u8
+#EXTINF:12,Barrandov Krimi
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/106-tv-pc.m3u8
+#EXTINF:12,Barrandov Kino
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/107-tv-pc.m3u8
+#EXTINF:12,Nova 2
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/304-tv-pc.m3u8
+#EXTINF:12,Nova Gold
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/305-tv-pc.m3u8
+#EXTINF:12,Epic Drama
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/343-tv-pc.m3u8
+
+#EXTINF:12,TLC
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/123-tv-pc.m3u8
+#EXTINF:12,Food Network
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/124-tv-pc.m3u8
+#EXTINF:12,ocko_star_2056
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/129-tv-pc.m3u8
+#EXTINF:12,ocko_hd_2054 180p25
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/130-tv-pc.m3u8
+#EXTINF:12,mtv_europe_1250
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/131-tv-pc.m3u8
+#EXTINF:12,retro_music_tv_2130
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/132-tv-pc.m3u8
+#EXTINF:12,vh1_2241
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/133-tv-pc.m3u8
+#EXTINF:12,mtv_80s_1248
+https://stc.o2tv.cz/calc/at/92102a2ee6a351adfb54cfbb6456faa3/1587231413988/134-tv-pc.m3u8
+
+
+
+
+
+
+
