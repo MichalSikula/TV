@@ -37,10 +37,10 @@ http://178.41.50.193:8001/1:0:19:1329:CA2:3:EB0000:0:0:0:
 http://213.151.233.20:8000/dna-5100-tv-pc/hls/4003v105.m3u8
 #EXTINF:0,STV2
 http://213.151.233.20:8000/dna-5105-tv-pc/hls/4003v103.m3u8
-#EXTINF:-1,Markiza
+#EXTINF:-1,Markíza
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4002v102.m3u8
 #EXTINF:-1,TA3
-http://http://213.151.233.20:8000/dna-5108-tv-pc/hls/4001v102.m3u8
+http://213.151.233.20:8000/dna-5108-tv-pc.m3u8
 #EXTINF:0,Discovery
 http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
 
