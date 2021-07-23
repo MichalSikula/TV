@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="6-hbo", HBO
-http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
+http://213.151.233.36:8000/dna-6129-tv-pc.m3u8
 #EXTINF:-1,FilmBox
-http://213.151.233.20:8000/dna-6110-tv-pc.m3u8
+http://213.151.233.36:8000/dna-6110-tv-pc.m3u8
 #EXTINF:-1,HBO2
 http://178.41.50.193:8001/1:0:1:3CF3:C95:3:EB0000:0:0:0:
 #EXTINF:-1,HBO3
@@ -30,20 +30,16 @@ http://178.41.50.193:8001/1:0:1:315:C94:3:EB0000:0:0:0:
 http://178.41.50.193:8001/1:0:19:3359:C93:3:EB0000:0:0:0:
 #EXTINF:0,JOJ Cinema +1
 http://178.41.50.193:8001/1:0:19:3353:C93:3:EB0000:0:0:0:
-
+#EXTINF:0,Filmbox
+#EXTGRP:unsorted
+http://178.41.50.193:8001/1:0:1:36E9:C8C:3:EB0000:0:0:0:
+#EXTINF:0,TA3
+#EXTGRP:unsorted
+http://178.41.50.193:8001/1:0:19:1328:CA2:3:EB0000:0:0:0:
 #EXTINF:0,STV1
 http://178.41.50.193:8001/1:0:19:1329:CA2:3:EB0000:0:0:0:
-#EXTINF:12,ČT1
-http://213.151.233.20:8000/dna-5100-tv-pc/hls/4003v105.m3u8
-#EXTINF:0,STV2
-http://213.151.233.20:8000/dna-5105-tv-pc/hls/4003v103.m3u8
-#EXTINF:-1,Markíza
-http://213.151.233.20:8000/dna-5106-tv-pc/hls/4002v102.m3u8
-#EXTINF:-1,TA3
-http://213.151.233.20:8000/dna-5108-tv-pc.m3u8
-#EXTINF:0,Discovery
-http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
-
+#EXTINF:-1,STV2
+http://178.41.50.193:8001/1:0:1:1329:CA2:3:EB0000:0:0:0:
 #EXTINF:0,Disney Channel
 http://178.41.50.193:8001/1:0:19:36FC:C8C:3:EB0000:0:0:0:
 #EXTINF:0,Nickelodeon
@@ -54,6 +50,18 @@ http://178.41.50.193:8001/1:0:1:1794:C82:3:EB0000:0:0:0:
 http://178.41.50.193:8001/1:0:19:36F0:C8C:3:EB0000:0:0:0:
 #EXTINF:0,Minimax
 http://178.41.50.193:8001/1:0:1:3724:C8E:3:EB0000:0:0:0:
+
+#EXTINF:12,ČT1
+http://213.151.233.36:8000/dna-5100-tv-pc/hls/4003v105.m3u8
+#EXTINF:0,STV2
+http://213.151.233.36:8000/dna-5105-tv-pc/hls/4003v103.m3u8
+#EXTINF:-1,Markíza
+http://213.151.233.36:8000/dna-5106-tv-pc/hls/4002v102.m3u8
+#EXTINF:-1,TA3
+http://213.151.233.36:8000/dna-5108-tv-pc/hls/4002v102.m3u8
+#EXTINF:0,Discovery
+http://213.151.233.36:8000/dna-6179-tv-pc.m3u8
+
 
 
 
