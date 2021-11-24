@@ -1,6 +1,29 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,HBO
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/42959
+#EXTINF:-1,HBO2
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,HBO3
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/42958
+#EXTINF:-1,HBO3
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/42960
+#EXTINF:-1,TA3
+https://parrotstream.tk/TA3.m3u8
+#EXTINF:-1,STV1
+https://parrotstream.tk/RTVS/Jednotka.m3u8
+#EXTINF:-1,STV2
+https://parrotstream.tk/RTVS/Dvojka.m3u8
+#EXTINF:12,AMC
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/42933
+#EXTINF:-1,Prima COOL
+https://parrotstream.tk/Prima/cool.m3u8
+#EXTINF:-1, Filmbox Extra
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/42953
+#EXTINF:-1,FilmBox Premium
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/42955
+
+#EXTINF:-1,HBO
 http://213.151.233.36:8000/dna-6129-tv-pc.m3u8
 #EXTINF:-1,FilmBox
 http://213.151.233.36:8000/dna-6110-tv-pc.m3u8
@@ -12,14 +35,7 @@ http://213.151.233.36:8000/dna-5105-tv-pc/hls/4003v103.m3u8
 http://213.151.233.36:8000/dna-5106-tv-pc/hls/4002v102.m3u8
 #EXTINF:-1,TA3
 http://213.151.233.36:8000/dna-5108-tv-pc/hls/4002v102.m3u8
-#EXTINF:-1,Discovery
-http://213.151.233.36:8000/dna-6179-tv-pc.m3u8
-
-#EXTINF:-1,HBO2
-http://95.102.86.87:8001/1:0:1:3CF3:C95:3:EB0000:0:0:0:
-#EXTINF:-1,HBO3
-http://95.102.86.87:8001/1:0:1:3CF4:C95:3:EB0000:0:0:0:
-
+														 
 #EXTINF:-1,HBO2
 http://185.242.56.142:8001/1:0:1:3CF3:C95:3:EB0000:0:0:0:
 #EXTINF:-1,HBO3
@@ -44,10 +60,13 @@ http://185.242.56.142:8001/1:0:1:36FB:C8C:3:EB0000:0:0:0:
 http://185.242.56.142:8001/1:0:1:315:C94:3:EB0000:0:0:0:
 #EXTINF:-1,Film Europe
 http://185.242.56.142:8001/1:0:1:3CF7:C95:3:EB0000:0:0:0:
+														 
 #EXTINF:-1,Jednotka
 http://185.242.56.142:8001/1:0:1:1329:CA2:3:EB0000:0:0:0:
 #EXTINF:-1,Dvojka
 http://185.242.56.142:8001/1:0:1:132A:CA2:3:EB0000:0:0:0:
+			  
+														 
 #EXTINF:-1,DOMA
 http://185.242.56.142:8001/1:0:1:3732:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,WAU
@@ -56,6 +75,10 @@ http://185.242.56.142:8001/1:0:1:371F:C8E:3:EB0000:0:0:0:
 http://185.242.56.142:8001/1:0:1:1328:CA2:3:EB0000:0:0:0:
 #EXTINF:-1,TV Lux
 http://185.242.56.142:8001/1:0:1:145A:C98:3:EB0000:0:0:0:
+					
+														 
+					 
+														 
 #EXTINF:-1,CT1
 http://185.242.56.142:8001/1:0:1:1F41:CA1:3:EB0000:0:0:0:
 #EXTINF:-1,CT2
@@ -66,6 +89,8 @@ http://185.242.56.142:8001/1:0:1:36E5:C8C:3:EB0000:0:0:0:
 http://185.242.56.142:8001/1:0:1:3396:C89:3:EB0000:0:0:0:
 #EXTINF:-1,Prima Zoom
 http://185.242.56.142:8001/1:0:1:36E8:C8C:3:EB0000:0:0:0:
+														
+						 
 #EXTINF:-1,CS History
 http://185.242.56.142:8001/1:0:1:335A:C93:3:EB0000:0:0:0:
 #EXTINF:-1,JOJ Cinema
