@@ -1,11 +1,5 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,HBO
-http://delux-iptv.com:8000/AMineLocal/Locaalrk/42959
-#EXTINF:-1,HBO2
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,HBO3
-http://delux-iptv.com:8000/AMineLocal/Locaalrk/42958
 #EXTINF:-1,TA3
 https://parrotstream.tk/TA3.m3u8
 #EXTINF:-1,Jednotka
@@ -20,18 +14,7 @@ https://parrotstream.tk/Prima/cool.m3u8
 http://delux-iptv.com:8000/AMineLocal/Locaalrk/42953
 
 
-#EXTINF:-1,HBO
-http://213.151.233.36:8000/dna-6129-tv-pc.m3u8
-#EXTINF:-1,FilmBox
-http://213.151.233.36:8000/dna-6110-tv-pc.m3u8
-#EXTINF:12,CT1
-http://213.151.233.36:8000/dna-5100-tv-pc/hls/4003v105.m3u8
-#EXTINF:0,Dvojka
-http://213.151.233.36:8000/dna-5105-tv-pc/hls/4003v103.m3u8
-#EXTINF:-1,Markíza
-http://213.151.233.36:8000/dna-5106-tv-pc/hls/4002v102.m3u8
-#EXTINF:-1,TA3
-http://213.151.233.36:8000/dna-5108-tv-pc/hls/4002v102.m3u8
+
 #EXTINF:-1,HBO2
 http://185.242.56.142:8001/1:0:1:3CF3:C95:3:EB0000:0:0:0:
 #EXTINF:-1,HBO3
